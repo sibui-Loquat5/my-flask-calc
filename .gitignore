@@ -1,0 +1,6 @@
+# venv
+myvenv/
+
+# python cache
+*.pyc
+__pycache__/
